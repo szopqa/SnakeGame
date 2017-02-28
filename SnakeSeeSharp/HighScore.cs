@@ -12,12 +12,12 @@ namespace SnakeSeeSharp {
 		
 
 		public HighScore () {
-
+			/*
 			try {
 				Int32.TryParse(System.IO.File.ReadAllText("high_score.txt"), out BestScore);
 			}
 			System.IO.File.WriteAllText("high_score.txt", Settings.Score.ToString());
-			
+			*/
 
 
 		}
